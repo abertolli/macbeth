@@ -1,0 +1,477 @@
+~mainmenu
+1)  Send a messenger
+2)  Visit a city
+3)  Make an attack
+4)  Deploy a spy
+5)  Make an alliance
+6)  Collect more taxes
+7)  Paint the houses
+8)  Wait
+Q)  Quit Game
+<space> to view stats
+~
+
+~menu1
+What is the message?
+
+a)  request a peace treaty (40 pesos)
+b)  make a threat (1 peso)
+c)  request military aid (10 pesos)
+d)  send gifts (100 pesos)
+e)  none
+~
+
+~menu2
+Visit whom?
+
+a)  Colonel Aureliano Buendia (42 pesos)
+b)  Don Apolinar Moscote (84 pesos)
+c)  Jose Arcadio (56 pesos)
+d)  none
+~
+
+~menu3
+What shalt thou deploy?
+
+a)  an army of 100 men (400 pesos)
+b)  a band of 10 men (50 pesos)
+c)  a band of 20 mercanaries (120 pesos)
+d)  hire an assassin (80 pesos)
+e)  none
+~
+
+~menu4
+Spy on whom?
+
+a)  Colonel Aureliano Buendia (23 pesos)
+b)  Don Apolinar Moscote (28 pesos)
+c)  Jose Arcadio (42 pesos)
+d)  none
+~
+
+~menu5
+Make an alliance with whom?
+
+a)  Colonel Aureliano Buendia (60 pesos)
+b)  Don Apolinar Moscote (75 pesos)
+c)  Jose Arcadio (120 pesos)
+d)  none
+~
+
+~menu6
+This won't be popular.
+Are you sure?  (y/n)
+~
+
+~menu7
+This will cost 123 pesos.
+Are you sure? (y/n)
+~
+
+~menu8
+You should be doing something.
+Are you sure? (y/n)
+~
+
+~menu9
+Do you want to quit? (y/n) 
+~
+
+~menu1a
+Send the message
+to whom?
+
+a)  Colonel Aureliano Buendia
+b)  Don Apolinar Moscote 
+c)  Jose Arcadio 
+d)  none
+~
+
+~menu3a
+Attack whom?
+
+a)  Colonel Aureliano Buendia
+b)  Don Apolinar Moscote 
+c)  Jose Arcadio 
+d)  none
+~
+
+~aid1
+   He is dead.
+~
+
+~aid2
+   You don't have enough money.
+~
+
+~aid3
+   You send out a request for military aid and receive
+additional soldiers and equipment.
+~
+
+~aid4
+   It seems that you are not well liked. They flatly and
+rudely refuse your request for help.
+~
+
+~aid5
+   You request military aid, but your not sure message even
+got through because no aid ever comes. You are left to fight
+your own battles once again.
+~
+
+~ally1
+   He is dead.
+~
+
+~ally2
+   You don't have enough money.
+~
+
+~ally3
+   You have done much work to organize an alliance and your
+efforts have not gone unrewarded. You have built much better
+diplomatic relationships and have boosted the morale of your
+people.
+~
+
+~ally4
+   The alliance talks are lengthy and much debated.
+Unfortunately, they do not go as well as they could, and
+there will be no alliance.
+~
+
+~army1
+... the attack is successfull!!!
+Army against army--man against his brother. The battle is
+won out on the field.
+~
+
+~army2
+... the attack is a loss.
+The defending forces are victorious. The battle has been
+lost.
+~
+
+~assassin1
+and, he is successful. The assassination is clean and no one
+suspects you.
+~
+
+~attack1
+and, he is successful. The assassination is clean and no one
+suspects you.
+~
+
+~attack2
+   He is dead.
+~
+
+~attack3
+   You don't have enough money.
+~
+
+~attack4
+   He is dead.
+~
+
+~band1
+... the attack is successfull.
+The battle is brief and the attackers arise victorious.
+~
+
+~band2
+... the attack is a loss.
+The defending forces are victorious. The attacking band of
+men is no more.
+~
+
+~caught1
+Your assassin has been caught and has been killed. The other
+leaders view you with their most loathing disgust.
+~
+
+~gifts1
+   He is dead.
+~
+
+~gifts2
+   You do not have the money.
+~
+
+~gifts3
+   You messenger accomplished his mission.  The gifts are
+accepted and you recieve a message describing the pleasing
+reception of them. You have established some good diplomatic
+relations. The people also seem pleased with this.
+~
+
+~gifts4
+   A bit after sending the gifts (properly guarded of
+course), the messenger and a couple of guards return. One of
+the bloodied guards explains, "Forgive us. We were surprised
+by bandits. There were too many. They took the treasures
+and killed some of my peers." 
+~
+
+~gifts5
+   You send a messenger with your gifts along with guards to
+protect it.
+   Unfortunately, you never hear anything about it again.
+~
+
+~goodrule1
+   You receive a donation of 20 pesos worth of gifts.
+~
+
+~holiday1
+   You do not have the money.
+~
+
+~holiday2
+paints the houses your color in order to gain popularity.
+~
+
+~knight1
+... the attack is successfull!
+The battle is gloriously fought by the two noble factions.
+The attacking knight returns home with loot from the battle.
+~
+
+~knight2
+... the attack is a loss.
+The defending forces are victorious.  The attacking forces
+flee and the knight has been slain.
+~
+
+~arcadio1
+   Don Apolinar Moscote executes a direct assult upon Macondo ...
+
+And is triumphant!
+Jose Arcadio's men are defeated!
+~
+
+~arcadio1
+   The people have rebelled against Jose Arcadio! 
+Ursula pulls Arcadio away and whips him!
+~
+
+~aureliano1
+   You hear the news of the fall of Colonel Aureliano Buendia. 
+Rumor has it he was killed while travelling through Europe.
+
+~
+
+~aureliano2
+   You hear the news of the fall of Colonel Aureliano Buendia. 
+Rumor has it he was betrayed by one of his own men.
+~
+
+~moscote1
+   Jose Arcadio has killed Don Apolinar Moscote and has set 
+up one of his own men in his place!
+~
+
+~moscote2
+   The people have rebelled against Don Apolinar Moscote 
+after he stole weapons from the local villagers in order
+ to "prove" the treachery of the Liberal Party. 
+He has been removed from power.
+~
+
+~peace1
+   He is dead.
+~
+
+~peace2
+   You do not have the money.
+~
+
+~peace3
+   You send a messenger. The request for peace has been accepted.
+~
+
+~peace4
+   You send a messenger with a request for peace but the
+messenger mysteriously disappears.
+~
+
+~peace5
+   You send a messenger but the man later turns up dead.
+~
+
+~peace6
+   You message is sent and rejected.
+~
+
+~spy1
+   He is dead.
+~
+
+~spy2
+   You do not have the money.
+~
+
+~spy3
+   You henchman is successful.  You recieve information ...
+~
+
+~spy4
+   One day you hear the gruesome details about your
+unsuccessful spy.  He has been captured and tortured til
+death.  You wonder what he has said.
+~
+
+~taxes1
+collects 200 pesos worth of taxes.  The people are not happy
+with this and vocally portray thier disgust.
+~
+
+~threat1
+   He is dead.
+~
+
+~threat2
+   You do not have the money.
+~
+
+~threat3
+   Your threat has been recieved.  You are a formidable foe,
+and your threat has been taken seriously. 
+~
+
+~threat4
+   You send a threatening message. The threat is
+ridiculed and dismissed as a minor trifle at most.
+~
+
+~threat5
+   The messenger mysteriously disappears.
+~
+
+~visit1
+   You do not have the money.
+~
+
+~visit2
+   Your visit is enjoyable but uneventful.
+~
+
+~visit3
+   You travel through the jungle when suddenly, you fall prey
+to criminal mercenaries.  The battle is brief and your
+experienced men easily defeat the outlaws.
+~
+
+~visit4
+   You pass through the jungle. The forest grows dark and you
+are met by scores of mercenaries.  The mercanaries kill
+your men in a lengthy battle. You barely escape with your
+life while the men make off with some of your money.
+~
+
+~visit5
+   You find Jose Arcadio to be a very unreasonable man. 
+You question his realtionship with his sister Rebeca. 
+As a result, he has you drug out into the street and shot.
+~
+
+~visit6
+   You meet with Colonel Aureliano Buendia as he travels 
+the country. You stay with him for a week and establish 
+good relations.
+~
+
+~visit7
+   You establish better relations with Don Apolinar Moscote.
+He gives you some equipment for your armies.
+~
+
+~visit8
+   You are stopped by Moscote's men and are not allowed to see him.
+~
+
+~visit9
+   You learn that Colonel Aureliano Buendia died shortly after 
+urinating on a tree.
+~
+
+~visit10
+   You learn that Moscote has been killed in battle.
+~
+
+~visit11
+   You try to visit Jose Arcadio but learn that his mother Ursula has 
+taken control of the town.
+~
+
+~overthrow1
+   The men of your city revolt. 
+You send your soldiers to try and crack down on the rebellion, but 
+they are subdued. You are are replaced with another ruler and are 
+thrown in jail.
+~
+
+~conquered1
+   Your armies have been depleted.  In a matter of a few
+days, you hear the dreadful sound of the war drums. You are soon 
+conquered by Arcadio's men.
+~
+
+~ending1
+With Arcadio's death, peace can once again be established in Macondo.
+~
+
+~ending2
+The two's greatest warmongers of the conflict, Arcadio and Moscote, 
+have been killed. A new day of peace reigns supreme.
+~
+
+~gameover
+  _     _                              ;
+ / \\  < \, \\/\\/\\  _-_         /'\\ \\/\  _-_  ,._-_
+|| ||  /-|| || || || || \\       || || || | || \\  ||
+|| || (( || || || || ||/         || || || | ||/    ||
+\\_-|  \/\\ \\ \\ \\ \\,/        \\,/  \\/  \\,/   \\,
+ /  \
+'----`
+~
+
+~title
+ ____        _   _             _
+/ ___|  ___ | (_) |_ _   _  __| | ___
+\___ \ / _ \| | | __| | | |/ _` |/ _ \
+ ___) | (_) | | | |_| |_| | (_| |  __/
+|____/ \___/|_|_|\__|\__,_|\__,_|\___|
+
+ONE THOUSAND YEARS OF SOLITUDE
+The Game
+~
+
+~intro
+It is the year 1899.
+
+The Thousand Days War has begun between the Conservative and 
+Liberal parties. Among the most noteworthy generals is Colonel 
+Aureliano Buendia, a strong-willed general, who is travelling 
+with his band of loyal men from Macondo, fighting battles across
+the country for the Liberal Party. His uncle, Don Apolinar Moscote,
+after being driven out of Macondo by Aureliano, has taken up
+residence nearby and plans to retake the city for the Conservative
+Party. Meanwhile, Aureliano's impulsive brother, Arcadio, has taken
+control of the city of the Macondo and rules it with an iron fist. 
+You are Juan Neutraliano, the governor of a town near Macondo 
+and it is your job to find a way for you and your town to survive 
+the bloody conflict. 
+~
+
+~credits
+CREATED BY
+Jefferey Querner
+
+~
+
+~research
+
+
+~
