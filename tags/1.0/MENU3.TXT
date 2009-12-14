@@ -1,0 +1,7 @@
+What shalt thou deploy?
+
+a)  an army of 100 men (400 pounds)
+b)  a band of 10 men (50 pounds)
+c)  knight and legion (120 pounds)
+d)  hire an assassin (80 pounds)
+e)  none

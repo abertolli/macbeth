@@ -1,0 +1,2 @@
+This won't be popular.
+Are you sure?  (y/n)

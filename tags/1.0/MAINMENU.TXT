@@ -1,0 +1,10 @@
+1)  Send a messenger
+2)  Visit a castle
+3)  Make an attack
+4)  Deploy a spy
+5)  Make an alliance
+6)  Collect more taxes
+7)  Declare a holiday
+8)  Wait, do nothing
+9)  Quit Game
+<space> to view stats

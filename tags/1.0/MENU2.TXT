@@ -1,0 +1,6 @@
+Visit whom?
+
+a)  Macduff (42 pounds)
+b)  Malcolm (84 pounds)
+c)  Macbeth (56 pounds)
+d)  none

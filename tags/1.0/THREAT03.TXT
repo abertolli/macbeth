@@ -1,0 +1,5 @@
+   You threat has been recieved.  You are
+a formidable foe, and your threat has been
+taken seriously.  Now you have one less
+messenger to worry about.  Maybe it wasn't
+such a good idea.
