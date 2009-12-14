@@ -1,0 +1,7 @@
+   You are stopped by guards at the gate
+to the castle.  They question you and hold
+you out for a while.  They eventually get a
+message and refuse to allow you passage to
+the castle of Lord Malcolm.
+   Angrily, you turn and proceed to return
+to your own castle.

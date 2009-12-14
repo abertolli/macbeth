@@ -1,0 +1,2 @@
+This will cost 123 pounds.
+Are you sure? (y/n)
