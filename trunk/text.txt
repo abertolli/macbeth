@@ -1,0 +1,733 @@
+~mainmenu
+1)  Send a messenger
+2)  Visit a castle
+3)  Make an attack
+4)  Deploy a spy
+5)  Make an alliance
+6)  Collect more taxes
+7)  Declare a holiday
+8)  Wait, do nothing
+Q)  Quit Game
+<space> to view stats
+~
+
+~menu1
+What is the message?
+
+a)  request a peace treaty (40 pounds)
+b)  make a threat (1 pound)
+c)  request military aid (10 pounds)
+d)  send gifts (100 pounds)
+e)  none
+~
+
+~menu2
+Visit whom?
+
+a)  Macduff (42 pounds)
+b)  Malcolm (84 pounds)
+c)  Macbeth (56 pounds)
+d)  none
+~
+
+~menu3
+What shalt thou deploy?
+
+a)  an army of 100 men (400 pounds)
+b)  a band of 10 men (50 pounds)
+c)  knight and legion (120 pounds)
+d)  hire an assassin (80 pounds)
+e)  none
+~
+
+~menu4
+Spy on whom?
+
+a)  Macduff (23 pounds)
+b)  Malcolm (28 pounds)
+c)  Macbeth (42 pounds)
+d)  none
+~
+
+~menu5
+Make an alliance with whom?
+
+a)  Macduff (60 pounds)
+b)  Malcolm (75 pounds)
+c)  Macbeth (120 pounds)
+d)  none
+~
+
+~menu6
+This won't be popular.
+Are you sure?  (y/n)
+~
+
+~menu7
+This will cost 123 pounds.
+Are you sure? (y/n)
+~
+
+~menu8
+You should be doing something.
+Are you sure? (y/n)
+~
+
+~menu9
+Do you want to quit? (y/n) 
+~
+
+~menu1a
+Send the message
+to whom?
+
+a)  Macduff
+b)  Malcolm
+c)  Macbeth
+d)  none
+~
+
+~menu3a
+Attack whom?
+
+a)  Macduff
+b)  Malcolm
+c)  Macbeth
+d)  none
+~
+
+~aid1
+   The messenger seems to be trying to suppress his laughter
+and hide it from you.  You demand to know what it is.
+   "But, mi lord," responds the messenger, "Is it wise to ask
+aid from a dead man?"
+   Oh, now you remember.  You're too embarrassed to punish
+the messenger.
+~
+
+~aid2
+   You need aid.  If only you could get it.  You just don't
+have the money to properly request aid.  For right now, you
+need to think of something else.
+~
+
+~aid3
+   You send out a request for military aid.  And, amazingly,
+you are sent additional soldiers and equipment.
+~
+
+~aid4
+   It seems that you are not well liked.  They flatly and
+rudely refuse your request for help.
+~
+
+~aid5
+   You request military aid, but your not sure message even
+got through because no aid ever comes.  You are left to fight
+your own battles once again.
+~
+
+~ally1
+   At first you prepare for an alliance, but then, after
+thinking it over, you decide that it's just impossible to
+deal with dead people.
+~
+
+~ally2
+   You must, of course, understand that such a venture is
+going to cost some quality time and money.  You may have the
+time, but you certainly don't have the money.
+~
+
+~ally3
+   You have done much work to organize an alliance and your
+efforts have not gone unrewarded.  You have built much better
+diplomatic relationships and have boosted the morale of your
+people.
+~
+
+~ally4
+   The alliance talks are lengthy and much debated.
+Unfortunately, they do not go as well as they could, and
+there will be no alliance.
+~
+
+~army1
+... the attack is successfull!!!
+Army against army--man against his brother.  The battle is
+won out on the field.
+~
+
+~army2
+... the attack is a loss.
+The defending forces are victorious.  The battle has been
+lost.
+~
+
+~assassin1
+and, he is successful.  The assassination is clean and no one
+suspects you.
+~
+
+~attack1
+and, he is successful.  The assassination is clean and no one
+suspects you.
+~
+
+~attack2
+   You just finish writing up an order to move troops when
+you remember that he isn't alive any more!  You quickly burn
+the order.
+~
+
+~attack3
+   Face it:  it's hard enough to find someone to do the job,
+but impossible to find someone to do it for free!
+~
+
+~attack4
+   It's an interesting plan.  No, a rather amazing plan.
+There's just one problem:  he's already dead!
+~
+
+~band1
+... the attack is successfull.
+The battle is brief and the attackers arise victorious.
+~
+
+~band2
+... the attack is a loss.
+The defending forces are victorious.  The attacking band of
+men is no more.
+~
+
+~caught1
+Your assassin has been caught and has been killed.  The other
+leaders view you with their most loathing disgust.
+~
+
+~gifts1
+   You're sure that the gifts would be most appreciated, but
+he simply is not alive anymore.  You wonder if he knows about
+or appreciates the thought wherever he is right now.
+~
+
+~gifts2
+   It is very kind of you to try and give gifts when you have
+so little money.  In fact you can't afford the gifts.
+They'll just have to wait until later.
+~
+
+~gifts3
+   You messenger accomplished her mission.  The gifts are
+accepted and you recieve a message describing the pleasing
+reception of them.  You have established some good diplomatic
+relations.  The people also seem pleased with this.
+~
+
+~gifts4
+   A bit after sending the gifts (properly guarded of
+course), the messenger and a couple of guards return.  One of
+the bloodied guards explains, "Forgive us.  We were surprised
+by bandits.  There were too many.  They took the treasures
+and killed some of my peers."  He hangs his head in dishonor.
+~
+
+~gifts5
+   You send a messenger with your gifts along with guards to
+protect it.
+   Unfortunately, you never hear anything about it again.
+Oh, if you ever get your hands on that messenger ...
+~
+
+~goodrule1
+   A representative of the people of the Highlands requests
+to see you.  Being the good ruler that you are, you accept.
+   A man approaches, "On behalf of your loyal servants, I
+present you with these gifts.  We are grateful for your kind
+and generous rulership."  You recieve 20 pounds worth of
+gifts.
+~
+
+~holiday1
+   Good idea.  Unfortunately, you can't because you don't
+have the funds.  Try something else.
+~
+
+~holiday2
+declares a holiday.  The people gladly accept they're time
+off.  Rumors of their lord's kindness spread.
+~
+
+~knight1
+... the attack is successfull!
+The battle is gloriously fought by the two noble factions.
+The attacking knight returns home with loot from the battle.
+~
+
+~knight2
+... the attack is a loss.
+The defending forces are victorious.  The attacking forces
+flee and the knight has been slain.
+~
+
+~macbeth1
+   Malcolm executes a direct assult upon Macbeth's castle ...
+
+And is triumphant!
+Malcolm's armies have defeated the tyrant.
+~
+
+~macbeth1
+   The people of Scotland have risen. They have taken Macbeth
+off the throne themselves.  It is the people who choose not
+to be governed by the fiend anymore.
+~
+
+~macduff1
+   You hear the news of the fall of the House of Macduff.
+Rumors have it that King Macbeth secretly hired a band of
+mercenaries that destroyed the domain of Macduff.
+~
+
+~macduff2
+   The most peculiar rumor has just struck your ears.  It
+seems that Macduff's own people have removed him as their
+lord.  You don't know the details, but you do know that
+Macduff was the best and most kind lord you have ever known.
+~
+
+~malcolm1
+   Hope of ridding the land of the tyrant Macbeth has turned
+into dispair.  Macbeth has defeated Malcolm at his own castle
+and has a placed a new lord in Malcolm's place.
+~
+
+~malcolm2
+   The people in Malcolm's domain have decided upon a new
+lord.  Malcolm was not easily convinced, but he was wise
+enough not to resist.  You don't know what has happened to
+Malcolm.
+~
+
+~peace1
+   Sorry but this guy has already got all the peace he wants.
+In fact, he rests in peace.
+~
+
+~peace2
+   Unfortunately, the costs of this noble venture on your own
+part are too much for you to handle.  You'd better think of
+something else.
+~
+
+~peace3
+   You send a messenger.  You are starting to wonder if the
+message ever went through when another message returns.  The
+request for peace has been accepted.
+~
+
+~peace4
+   You send a messenger with a request for peace.  You never
+get a response.  You will never what happened to that
+messenger or the message.
+~
+
+~peace5
+   You choose your finest, swiftest carrier to deliver the
+message personally.  Later his body is found in Birnam Wood,
+having been tortured and mangled in a most peculiar fashion.
+~
+
+~peace6
+   You message is sent immediately.  Soon you recieve word
+that your request for peace has been politely rejected.
+~
+
+~spy1
+   "Let me save you some money." says your so-called spy.
+"The man you want information on is dead."  And with that, he
+runs, laughing maniacally, out the door and down the hall.
+(Obviously one of the notorious roving jesters in disguise.)
+~
+
+~spy2
+   "Hey," exclaims the spy, "what is this?  I don't work for
+free you kno--"
+   Not needing to hear the rest, you quickly lop off his head
+with your sword and order some servants to clean up the mess.
+~
+
+~spy3
+   You henchman is successful.  You recieve information ...
+~
+
+~spy4
+   One day you hear the gruesome details about your
+unsuccessful spy.  He has been captured and tortured til
+death.  You wonder what he has said.
+~
+
+~taxes1
+collects 200 pounds worth of taxes.  The people are not happy
+with this and vocally portray thier disgust.
+~
+
+~threat1
+   Hmmm...  Threatening dead people?  I'm not sure if you
+should be embarrassed or ashamed.
+~
+
+~threat2
+   If you haven't noticed, you're in dire economic straits.
+(You haven't got a pound to your name.)
+~
+
+~threat3
+   You threat has been recieved.  You are a formidable foe,
+and your threat has been taken seriously.  Now you have one
+less messenger to worry about.  Maybe it wasn't such a good
+idea.
+~
+
+~threat4
+   You send a threatening message.  You recieve a message in
+return to the effect, "Is this a joke?!"  The threat is
+ridiculed and dismissed as a minor trifle at most.
+~
+
+~threat5
+   You get word that your messenger has fallen prey to
+Ronald's Roving Jesters, an activist group for the rights of
+bards.  He's probably been killed or driven insane.
+~
+
+~visit1
+   You pack everything up and are just about to leave when
+you notice you do not have the funds for the trip.  You have
+to stay at home for right now.
+~
+
+~visit2
+   You encounter a band of roving jesters.  Unfortunately,
+they decide to follow.  They are able to evade your guards
+and continue to torment you.  Once the castle is within
+sight, they run off.
+~
+
+~visit3
+   You travel through pleasant woods. Suddenly, you fall prey
+to criminal mercenaries.  The battle is brief and your
+experienced men easily defeat the outlaws.
+~
+
+~visit4
+   You pass through the woods.  The forest grows dark and you
+are met by scores of renegade mercenaries.  The outlaws slay
+your men in a lengthy battle.  You barely escape with your
+life.  The brigands have made off with some of your
+treasures.  You start walking back to your castle...
+~
+
+~visit5
+   You have arrived at the castle of King Macbeth.  Macbeth
+himself greets you and readily takes you in.
+   "We are very glad you came." relates Macbeth, "It is
+always good to know my faithful servants."
+   That night there is a feast in your honor.  You eat well,
+and are given a comfortable bed.  You fall asleep ...
+
+
+
+
+ ... a sleep from which you never awaken.
+~
+
+~visit6
+   You approach the castle of Macduff.  You are accepted
+here.
+   Lady Macduff greets you, "Hail, Thane of the Highlands.
+Lord Macduff is not here.  He resides at the castle of Lord
+Malcolm at the time being.  You are welcome to stay here if
+you wish."
+   You stay for almost a week and establish good relations
+with the House of Macduff.
+~
+
+~visit7
+   You are stopped by guards at the gate to the castle.  They
+question you and hold you out for a while.  But they
+eventually get a message to allow you passage and you enter
+the castle of Lord Malcolm.
+   On your way to see Malcolm you find Lord Macduff, "I am
+pleased to see you got our message.  You must talk to
+Malcolm, for matters are heavy."
+   When you finally get to see Malcolm, you are able to
+present him with the small trinkets you have brought and
+establish better relations with him.
+   You stay for a week.  When you depart, Malcolm gives
+you some equipment for your armies.
+~
+
+~visit8
+   You are stopped by guards at the gate to the castle.  They
+question you and hold you out for a while.  They eventually
+get a message and refuse to allow you passage to the castle
+of Lord Malcolm.
+   Angrily, you turn and proceed to return to your own
+castle.
+~
+
+~visit9
+   You approach the castle of Macduff.  The place is quiet,
+and your summons goes unanswered.
+   A simple peasant of the nearby village approaches and bows
+clumsily, "I regret to inform you, mi lord, but Master
+Macduff is no longer with us."
+   You demand to know what has happened and the peasant
+answers, "Many soldiers came.  They went through and attacked
+our village, but they were here mostly to raze the House of
+Macduff.  It fills my heart with sorrow--Macduff was a kind
+and noble ruler.  I know not who they were.  No one lives in
+this manor now."
+   Unpleased by the results of this trip, you point your
+horse towards your castle for the return home.
+~
+
+~visit10
+   You are stopped by guards at the gate to the castle.  They
+question you and hold you out for a while.  Once they find
+out who you are, they tell you that Malcolm is no longer
+alive and that there sits a new ruler.
+   You demand entrance to see the new ruler, but you are
+refused.  You realize tensions are rising around here due to
+your presence, and wisely decide to go back home.
+~
+
+~visit11
+   You travel along the road that leads to Dunsinane.
+Suddenly, everyone who is with you disappears and all you see
+are three whithered old crones.
+   "Beware."  they say.  "Beware Macbeth.  His hospitality is
+that of a smiling serpent.  The blood on his hands can never
+be washed clean.  Beware Macbeth."
+   And then they mysteriously disappear, and you are back on
+the road to Dunsinane.
+~
+
+~overthrow1
+   You hear a noise outside your window. You look.  The
+peasants are rioting.  They have had enough of your poor
+rulership.
+   You dispatch soldiers to subdue them, but the people will
+not take this abuse anymore.  Through sheer numbers, the
+peasants break in and take over.  You are thrown out on your
+face and the time for a new Thane of the Highlands has come.
+~
+
+~conquered1
+   Your armies have been depleted.  In a matter of a few
+days, you hear the dreadful sound of the war drums.
+   Macbeth's armies have conquered the Highlands, and the
+threat of the Thane of the Highlands no longer troubles the
+crown.
+~
+
+~ending1
+   What a glorious day it is for the people of Scotland!
+King Macbeth is dead, long live King Malcolm.
+   The tyrant and fiend has been destroyed and the blood from
+his hands razed from the slate of Scotland.  Malcolm gives an 
+uplifting speech for the people and you are there to witness
+it.
+
+
+
+   Malcolm finishes, "So thanks to all at once, and to each
+one, whom we invite to see us crowned at scone."
+                                   - William Shakespeare
+~
+
+~ending2
+   Today is a day of joy mixed with sorrow.  It is the day of
+Scotland's liberation from the tyrant Macbeth.  However, the
+people of Scotland feel the weight upon their hearts brought
+about by the tragic death of the noble Lord Malcolm. May his
+soul rest in peace.
+   As for Scotland, you are happy to see the day of freedom.
+You have been waiting for this day ever since the death of
+King Duncan III.  You await to see the next High King of
+Scotland.
+~
+
+~gameover
+  _     _                              ;
+ / \\  < \, \\/\\/\\  _-_         /'\\ \\/\  _-_  ,._-_
+|| ||  /-|| || || || || \\       || || || | || \\  ||
+|| || (( || || || || ||/         || || || | ||/    ||
+\\_-|  \/\\ \\ \\ \\ \\,/        \\,/  \\/  \\,/   \\,
+ /  \
+'----`
+~
+
+~title
+          
+            /\\,/\\,            ,,            ,  ,,
+           /| || ||    _        ||           ||  ||
+           || || ||   < \,  _-_ ||/|,  _-_  =||= ||/\\
+           ||=|= ||   /-|| ||   || || || \\  ||  || ||
+          ~|| || ||  (( || ||   || |' ||/    ||  || ||
+           |, \\,\\,  \/\\ \\,/ \\/   \\,/   \\, \\ |/
+          _-                                       _/
+~
+
+~intro
+It is the year 1031.  Macbeth has succeeded his father,
+Finlay, as moarmaer (provincial governor) of Moray...
+
+Later...
+   It is the year 1040.  You have recently become Thane of
+the Highlands under King Duncan I.
+   A messenger enters, "I have terrible news, mi lord."  The
+messenger pulls out a scroll with the seal of Macduff upon
+it.  He reads, "Macbeth hath slain our noble King Duncan in
+battle near Elgin.  He makes a direct claim to the crown by
+his marriage to the granddaughter of King Kenneth III.  You
+hereby are urged to aid us in cleansing Scotland of this
+murderous tyrant."
+
+   As Thane of the Highlands you realize the neccessity for
+your involvement.  If you do not choose a side, you will
+surely be taken after the conflict.  The High King of
+Scotland is Macbeth, but you fear his rule may be at an end.
+
+The choice is up to you...
+~
+
+~credits
+CREATED BY
+     Angelo Bertolli
+     Robert "Bojoe" Carranza
+     Joseph Doran III
+     Chris Ponzica
+
+RESEARCH (from Grolier Electronic
+               Publishing, Inc.)
+     Bojoe
+     Chris Ponzica
+
+PROGRAM DESIGN
+     Angelo Bertolli
+     Joseph Doran III
+
+PROGRAMMING and SCREENPLAY
+     Angelo Bertolli
+
+PLAYTESTING
+     Bojoe
+     Chris Ponzica
+     Joe Doran
+     Josh C. Matthews
+
+TECHNICAL SUPPORT
+     Joseph Doran III
+     Bojoe
+     Mrs. Joyce Galiette
+     St. Pius X High School
+
+CREDITS BY
+     Angelo Bertolli
+     Bojoe
+
+SPECIAL THANKS TO
+     Mr. Herman Sutter
+
+Based on "Macbeth" by William
+                      Shakespeare.
+
+Copyright 1995, 2003 - Angelo Bertolli
+
+
+
+
+              DEDICATION
+
+   To Mrs. Judith Cusimano without whom
+it would never have been accomplished.
+~
+
+~research
+R E S E A R C H - from Grolier Electronic Publishing, Inc.
+
+Knight
+
+   In medieval Europe the term knight referred to a mounted warrior of
+secondary noble rank.  The medieval rank probably originated with the
+barbarian tribes of northern Europe. Often the younger son of a
+hereditary peer, the knight began his training as a young boy by
+entering the service of an overlord.  At age 15 or 16 he was raised to
+the rank of squire and began his period of trial.  When his overlord
+considered him worthy, the prospective knight recieved his accolade,
+traditionally a tap on the shoulder with a sword, which proclaimed him
+a knight.  Once knighted he was entitled to the honorific title "Sir"
+and continued in the military service of his overlord.
+   As feudalism developed, the rank of knight became a landholding
+rank.  The knight held his land by what was known as military tenure.
+That is, in return for a land grant the knight was expected to render
+military service to his overlord.  Knighthood also took on a religious
+significance, and a vigil before the altar became part of the military
+initiation into knighthood.
+
+Medieval Drama
+
+   The distinguishing characteristics of medieval drama are its
+Christian elements and its didactic purpose.  Vernacular plays
+typically dramatized the lives of the saints, stories from the Bible,
+or moral allegories.
+   The biblical cycle plays, sometimes called mystery plays, were
+originally performed under church auspices.  Although they contained
+Old Testament and nativity sequences, the cycles were primarily devoted
+to portraying the life and passion of Christ, his harrowing of hell,
+his resurrection and appearances to his disciples and the two Marys,
+and his ascension.
+
+Macbeth, King of Scotland
+
+   The life of Macbeth, king of Scots, b. c.1005, d. Aug. 15, 1057,
+formed the legendary basis of Shakespeare's tragedy Macbeth.  He
+succeeded (c.1031) his father, Finlay, as moarmaer (provincial
+governor) of Moray.  Macbeth probably had a personal claim to the crown
+of Scotland through royal descent, but he acquired an additional, more
+direct, claim by his marriage to Gruoch, granddaughter of King Kenneth
+III (r.997-1005).  Macbeth killed King Duncan I in battle near Elgin in
+1040 and took the crown.  An attempt to dethrone Macbeth in favor of
+Malcolm Canmore, the son of Duncan, was defeated in 1046.  In 1054,
+however, Macbeth was forced to give Malcolm a southern part of
+Scotland.  Malcolm defeated and killed Macbeth at the Battle of
+Lumphanan in 1057 and the following year became king as Malcolm III.
+Macbeth was buried at lona as a legitimate monarch.
+
+Manorialism
+
+   The great majority of the people lived in the country, where they
+were divided into two main classes:  lords and villagers.  The lords
+lived in manor houses, sometimes called castles, near which stood the
+crofts of their villagers.  The villagers, who might legally be either
+free or serf, cultivated the land--whether their own or their lord's.
+The lord often had rights to services as well as monetary rents.  The
+tenants commonly owed him a specified number of days of labor each
+year.  He collected inheritence taxes and commanded his villagers' use
+of his mill, oven, and winepress; above all, the  tenants were subject
+to jurisdiction of his manorial court.
+   The system of relationships between a lord and his tenants is called
+manorialism.  Because manorial services were not always reliable, some
+lords preferred to hire laborers from aamong the younger sons of the
+villagers, and frequently villagers were able to commute their personal
+services to a monetary payment.  Serfs, who were bound to the land,
+might buy manumission, or if they fled to a town and lived there for a
+year and a day, they were free of all manorial claims.  The example of
+the towns encouraged some villagers to form rural communes and obtain
+liberties of self-government from their lords; after the Black Death,
+the scarcity of labor enabled the villagers to obtain greater personal
+and economic freedom.
+~
